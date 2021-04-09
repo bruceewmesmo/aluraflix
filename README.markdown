@@ -1,4 +1,4 @@
-# Aluraflix2 - Funções
+# Aluraflix
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/bruceewmesmo/pen/mdRMvvJ](https://codepen.io/bruceewmesmo/pen/mdRMvvJ).
 
